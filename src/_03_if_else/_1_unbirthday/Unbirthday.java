@@ -10,6 +10,9 @@ public class Unbirthday {
 					if(input.equals("08/17")) {
 						JOptionPane.showMessageDialog(null, "Happy Birthday!");
 					}
+					else {
+						JOptionPane.showMessageDialog(null,"Happy Un-Birthday!");
+					}
 	}
 
 }
